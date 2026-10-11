@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/agentvis_logo.svg" width="180" alt="AgentVis OS logo"/>
+</p>
+
 # AgentVis OS
 
 **AgentVis OS** builds the missing layers between **LineageOS** and AI
