@@ -1,6 +1,6 @@
 # AgentVis OS
 
-**AgentVis OS** builds the missing layers between Android devices and AI
+**AgentVis OS** builds the missing layers between **LineageOS** and AI
 agents: an operating-system-integrated agent platform where on-device agents
 can **see** the screen, **reason** about it with vision-language models, and
 **act** — with the permissions, SELinux policy and product integration that a
